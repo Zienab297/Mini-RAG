@@ -1,4 +1,3 @@
 # Mini-RAG
 
-Implementing a simple RAG following a tutorial
-
+Implementing a simple RAG tutorial
